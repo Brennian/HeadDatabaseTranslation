@@ -16,9 +16,9 @@ messages.head: Kopf
 messages.other: Andere
 messages.loading: &c..Lade..
 messages.recentHeads: &aKürzlich hinzugefügt
-messages.noPermissionToBuyLore: &cKeine Rechte
-messages.searchCommand: &7/hdb search [Eingabe]
-messages.pheadCommand: /phead [name]
+messages.noPermissionToBuyLore: &cKeine Berechtigung
+messages.searchCommand: &7/hdb search [Suchbegriff]
+messages.pheadCommand: /phead [Name]
 messages.loreColor: &8
 messages.headItemColor: &9
 messages.categoryColor: &c&l
@@ -38,11 +38,11 @@ messages.searchForHeads: &cSuche nach Köpfen
 messages.pluginInfo: &cPlugin Info
 messages.pluginSuggest: &cHier kannst du neue Köpfe vorschlagen
 messages.pluginSuggestLore: &7Bitte prüfe zuerst die Datenbank!
-messages.chatSearch: &bGebe deine Suche ein (nutze englische Begriffe)
-messages.databaseStillLoading: &cDie Datenbank wird noch geladen, versuche es gleich erneut!
+messages.chatSearch: &bGebe deine Suchebegriffe ein (nutze englische Begriffe)
+messages.databaseStillLoading: &cDie Datenbank wird noch geladen, versuche es demnächst erneut!
 messages.customCommandItemName: &cZurück zum Hauptmenü
-messages.patience: &cBitte warte einen Moment bevor du dir den nächsten Kopf holen kannst!
-messages.overflow: &eDa dein Inventar voll ist, wurde der Kopf auf dem Boden platziert.
+messages.patience: &cBitte habe noch einen Moment Geduld, bevor du dir den nächsten Kopf holen kannst!
+messages.overflow: &eDa dein Inventar voll ist, wurde der Kopf auf dem Boden gelegt.
 
 # Kategorien
 
@@ -50,7 +50,7 @@ category.alphabet: Alphabet
 category.animals: Tiere
 category.blocks: Blöcke
 category.decoration: Dekoration
-category.food_drinks: Essen und Trinken
+category.food_drinks: Nahrung und Trinken
 category.humans: Menschen
 category.humanoid: Humanoid
 category.miscellaneous: Sonstige
